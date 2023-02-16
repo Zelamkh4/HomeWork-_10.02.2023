@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork/C#HW.001/bin/Debug/net6.0/C#HW.001
+/Users/zelamkh/C#HomeWork/C#HW.001/bin/Debug/net6.0/C#HW.001.deps.json
+/Users/zelamkh/C#HomeWork/C#HW.001/bin/Debug/net6.0/C#HW.001.runtimeconfig.json
+/Users/zelamkh/C#HomeWork/C#HW.001/bin/Debug/net6.0/C#HW.001.dll
+/Users/zelamkh/C#HomeWork/C#HW.001/bin/Debug/net6.0/C#HW.001.pdb
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.dll
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/refint/C#HW.001.dll
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.pdb
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/C#HW.001.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork/C#HW.001/obj/Debug/net6.0/ref/C#HW.001.dll
