@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork/C#HW.Task6/bin/Debug/net6.0/C#HW.Task6
+/Users/zelamkh/C#HomeWork/C#HW.Task6/bin/Debug/net6.0/C#HW.Task6.deps.json
+/Users/zelamkh/C#HomeWork/C#HW.Task6/bin/Debug/net6.0/C#HW.Task6.runtimeconfig.json
+/Users/zelamkh/C#HomeWork/C#HW.Task6/bin/Debug/net6.0/C#HW.Task6.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task6/bin/Debug/net6.0/C#HW.Task6.pdb
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/refint/C#HW.Task6.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.pdb
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/C#HW.Task6.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task6/obj/Debug/net6.0/ref/C#HW.Task6.dll
