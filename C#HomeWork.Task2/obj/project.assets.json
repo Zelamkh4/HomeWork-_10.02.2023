@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zelamkh/C#HomeWork/C#HW.001/C#HW.001.csproj",
-      "projectName": "C#HW.001",
-      "projectPath": "/Users/zelamkh/C#HomeWork/C#HW.001/C#HW.001.csproj",
+      "projectUniqueName": "/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/C#HomeWork.Task2.csproj",
+      "projectName": "C#HomeWork.Task2",
+      "projectPath": "/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/C#HomeWork.Task2.csproj",
       "packagesPath": "/Users/zelamkh/.nuget/packages/",
-      "outputPath": "/Users/zelamkh/C#HomeWork/C#HW.001/obj/",
+      "outputPath": "/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zelamkh/.nuget/NuGet/NuGet.Config"

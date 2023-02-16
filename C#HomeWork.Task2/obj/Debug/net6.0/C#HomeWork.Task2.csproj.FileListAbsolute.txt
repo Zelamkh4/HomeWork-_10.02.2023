@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/bin/Debug/net6.0/C#HomeWork.Task2
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/bin/Debug/net6.0/C#HomeWork.Task2.deps.json
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/bin/Debug/net6.0/C#HomeWork.Task2.runtimeconfig.json
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/bin/Debug/net6.0/C#HomeWork.Task2.dll
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/bin/Debug/net6.0/C#HomeWork.Task2.pdb
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.dll
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/refint/C#HomeWork.Task2.dll
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.pdb
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/C#HomeWork.Task2.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork/C#HomeWork.Task2/obj/Debug/net6.0/ref/C#HomeWork.Task2.dll
