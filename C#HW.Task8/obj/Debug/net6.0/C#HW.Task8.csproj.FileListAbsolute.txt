@@ -1,0 +1,15 @@
+/Users/zelamkh/C#HomeWork/C#HW.Task8/bin/Debug/net6.0/C#HW.Task8
+/Users/zelamkh/C#HomeWork/C#HW.Task8/bin/Debug/net6.0/C#HW.Task8.deps.json
+/Users/zelamkh/C#HomeWork/C#HW.Task8/bin/Debug/net6.0/C#HW.Task8.runtimeconfig.json
+/Users/zelamkh/C#HomeWork/C#HW.Task8/bin/Debug/net6.0/C#HW.Task8.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task8/bin/Debug/net6.0/C#HW.Task8.pdb
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.csproj.AssemblyReference.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.AssemblyInfoInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.AssemblyInfo.cs
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/refint/C#HW.Task8.dll
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.pdb
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/C#HW.Task8.genruntimeconfig.cache
+/Users/zelamkh/C#HomeWork/C#HW.Task8/obj/Debug/net6.0/ref/C#HW.Task8.dll
